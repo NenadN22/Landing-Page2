@@ -1,6 +1,5 @@
 * {
     font-family:'Roboto', sans-serif;
-    
 }
 body {
     height: 100vh;
@@ -29,4 +28,35 @@ li a {
     font-size: 18px;
     font-weight: 400;
     
+}
+h1 {
+    font-size: 40px;
+    font-weight: 900;
+    color: #f9faf8;
+    margin: 0;
+
+}
+.placeholder-image {
+    width: 30vw;
+    height: 13vw;
+    object-fit: cover;
+}
+.first-section {
+    background-color: #1F2937;
+    display: flex;
+    justify-content: space-evenly;
+    padding: 120px;
+}
+.text-section {
+    max-width: 23vw;
+}
+p {
+    color: #f9faf8;
+}
+.first-section-button {
+    background-color: #3882f6;
+    color: white;
+    border: 0;
+    padding: 6px 20px;
+    border-radius: 3px;
 }
