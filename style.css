@@ -1,5 +1,5 @@
 * {
-    font-family:'Roboto', sans-serif;
+    font-family:'Roboto',sans-serif;
 }
 body {
     height: 100vh;
@@ -85,4 +85,25 @@ p {
     font-size: 36px;
     color: #1F2937;
     font-weight: 900;
+}
+.quote p {
+    color: #1F2937;
+    font-size: 26px;
+    font-style: italic;
+    font-weight: light;
+}
+.quote {
+    max-width: 450px;
+}
+.quote-section {
+    padding: 60px;
+    margin-top:60px;
+    background-color: #E5E7EB;
+    display: flex;
+    align-items: center;
+    justify-content: center; 
+}
+.quote h3 {
+    text-align: right;
+    color: #1F2937;
 }
