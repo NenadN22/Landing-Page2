@@ -107,3 +107,34 @@ p {
     text-align: right;
     color: #1F2937;
 }
+.action-section p {
+    color: black;
+}
+.action-section {
+    width: 500px;
+    
+}
+.last-section2 {
+    display: flex;
+    justify-content: center;
+    padding: 60px;
+}
+.last-section {
+    display: flex;
+    justify-content: center;
+    background-color: blue;
+    padding: 20px 120px;
+    border-radius: 20px;
+}
+.action-section p {
+    margin-top: 0;
+    color: white;
+}
+.action-section h2{
+    margin-bottom: 0;
+    color: white;
+}
+.action-button  {
+    display: flex;
+    align-items: center;
+}
