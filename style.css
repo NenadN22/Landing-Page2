@@ -117,14 +117,14 @@ p {
 .last-section2 {
     display: flex;
     justify-content: center;
-    padding: 60px;
+    padding: 80px;
 }
 .last-section {
     display: flex;
     justify-content: center;
     background-color:#318CE7;
-    padding: 20px 120px;
-    border-radius: 20px;
+    padding: 30px 120px;
+    border-radius: 10px;
 }
 .action-section p {
     margin-top: 0;
@@ -144,4 +144,12 @@ p {
     border: 2px solid white;
     padding: 6px 30px;
     border-radius: 10px;;
+}
+.footer {
+    background-color: #1F2937;
+}
+.footer p {
+    color: white;
+    padding: 30px;
+    text-align: center;
 }
